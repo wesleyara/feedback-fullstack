@@ -1,0 +1,6 @@
+[submodule "feedback-frontend"]
+	path = feedback-frontend
+	url = https://github.com/wesleyara/feedback-frontend
+[submodule "feedback-backend"]
+	path = feedback-backend
+	url = https://github.com/wesleyara/feedback-backend
